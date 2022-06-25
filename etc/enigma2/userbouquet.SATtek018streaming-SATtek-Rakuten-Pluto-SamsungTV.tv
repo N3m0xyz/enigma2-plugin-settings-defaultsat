@@ -1,7 +1,7 @@
 #NAME [SATtek - Rakuten-Pluto-Samsung+ TV]
-#SERVICE 1:64:15:0:0:0:0:0:0:0:
+#SERVICE 1:64:14:0:0:0:0:0:0:0:
 #DESCRIPTION - BEST Ch-IPTVfree Selection SATtechnology
-#SERVICE 1:64:16:0:0:0:0:0:0:0:
+#SERVICE 1:64:15:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- RAKUTEN TV ----------
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-azione-rakuten-tv:Azione - Rakuten TV
 #DESCRIPTION Azione - Rakuten TV
@@ -23,9 +23,9 @@
 #DESCRIPTION Thriller - Rakuten TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-topfilm-rakuten-tv:Top Film - Rakuten TV
 #DESCRIPTION Top Film - Rakuten TV
-#SERVICE 1:64:17:0:0:0:0:0:0:0:
+#SERVICE 1:64:16:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- PLUTO TV ----------
-#SERVICE 1:64:18:0:0:0:0:0:0:0:
+#SERVICE 1:64:17:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Cinema ----------
 #SERVICE 4097:0:1:27b9:fa4b:4b16:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa17fb9f4490007e6419a:Pluto TV Film
 #DESCRIPTION Pluto TV Film
@@ -43,7 +43,7 @@
 #DESCRIPTION Pluto TV Cinema Italiano
 #SERVICE 4097:0:1:b439:ce32:32dc:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa3c446d73500075f0e24:Pluto TV Film Classici
 #DESCRIPTION Pluto TV Film Classici
-#SERVICE 1:64:19:0:0:0:0:0:0:0:
+#SERVICE 1:64:18:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Serie TV ----------
 #SERVICE 4097:0:1:77e3:7d40:40fa:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60b9ff2722bfa400072676ef:Pluto TV Serie
 #DESCRIPTION Pluto TV Serie
@@ -61,7 +61,7 @@
 #DESCRIPTION Andromeda
 #SERVICE 4097:0:1:4047:c49c:9cb4:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60802c209a26320007c92ad5:Mutant X
 #DESCRIPTION Mutant X
-#SERVICE 1:64:1a:0:0:0:0:0:0:0:
+#SERVICE 1:64:19:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Intrattenimento ----------
 #SERVICE 4097:0:1:5d99:b26a:6a05:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60801976f92a750007a0699c:Pluto TV Real Life
 #DESCRIPTION Pluto TV Real Life
@@ -99,13 +99,13 @@
 #DESCRIPTION Fashion TV
 #SERVICE 4097:0:1:fe96:5250:5024:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802e86a6997500072cfe90/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60802e86a6997500072cfe90:Loupe
 #DESCRIPTION Loupe
-#SERVICE 1:64:1b:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Sport ----------
 #SERVICE 4097:0:1:cb80:d043:4391:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608030eff4b6f70007e1684c:Pluto TV Sport
 #DESCRIPTION Pluto TV Sport
 #SERVICE 4097:0:1:5949:b1ac:acbe:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608016e446d73500075ea7e0:World Poker Tour
 #DESCRIPTION World Poker Tour
-#SERVICE 1:64:1c:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Cultura ----------
 #SERVICE 4097:0:1:ff8b:90cf:cf0f:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa8a5709d6b0007b132fe:Pluto TV Documentari
 #DESCRIPTION Pluto TV Documentari
@@ -115,7 +115,7 @@
 #DESCRIPTION Naturescap
 #SERVICE 4097:0:1:ceff:6921:21c4:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f9ed2c75660007322bb7:Catfish
 #DESCRIPTION Catfish
-#SERVICE 1:64:1d:0:0:0:0:0:0:0:
+#SERVICE 1:64:1c:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Musica ----------
 #SERVICE 4097:0:1:b218:5831:3159:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60802de3fd2d70000763bb83:Clubbing TV
 #DESCRIPTION Clubbing TV
@@ -125,7 +125,7 @@
 #DESCRIPTION Qwest TV Mix
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-qwest-tv-classical:Qwest TV Classical
 #DESCRIPTION Qwest TV Classical
-#SERVICE 1:64:1e:0:0:0:0:0:0:0:
+#SERVICE 1:64:1d:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Bambini ----------
 #SERVICE 4097:0:1:7dc:32f4:f4bf:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=612375086abc84000738fc03:Pluto TV Anime
 #DESCRIPTION Pluto TV Anime
@@ -149,9 +149,9 @@
 #DESCRIPTION Super! Star
 #SERVICE 4097:0:1:83db:5113:1377:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608015ea48a6e800076f0f2f:IGN
 #DESCRIPTION IGN
-#SERVICE 1:64:1f:0:0:0:0:0:0:0:
+#SERVICE 1:64:1e:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- SAMSUNG-TVplus ----------
-#SERVICE 1:64:20:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Samsung-TVplus Cinema ----------
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-bizzarro-movies:Bizzarro Movies
 #DESCRIPTION Bizzarro Movies
@@ -163,7 +163,7 @@
 #DESCRIPTION Dark Matter Film TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-western-peplum:Western Peplum
 #DESCRIPTION Western Peplum
-#SERVICE 1:64:21:0:0:0:0:0:0:0:
+#SERVICE 1:64:20:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Samsung-TVplus Intrattenimento ----------
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-bbc-drama:BBC Drama
 #DESCRIPTION BBC Drama
@@ -175,7 +175,7 @@
 #DESCRIPTION Doctor Who
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-televisa-telenovelas:Televisa Telenovelas
 #DESCRIPTION Televisa Telenovelas
-#SERVICE 1:64:22:0:0:0:0:0:0:0:
+#SERVICE 1:64:21:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Samsung-TVplus Cultura ----------
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-bloomberg-tvplus:Bloomberg TV+
 #DESCRIPTION Bloomberg TV+
@@ -187,7 +187,7 @@
 #DESCRIPTION Donna TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-theboatshow:The Boat Show
 #DESCRIPTION The Boat Show
-#SERVICE 1:64:23:0:0:0:0:0:0:0:
+#SERVICE 1:64:22:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Samsung-TVplus Sport ----------
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-motor1tv:Motor1TV
 #DESCRIPTION Motor1TV
@@ -197,7 +197,7 @@
 #DESCRIPTION HorizonSports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-sportoutdoortv:SportOutdoor TV
 #DESCRIPTION SportOutdoor TV
-#SERVICE 1:64:24:0:0:0:0:0:0:0:
+#SERVICE 1:64:23:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Samsung-TVplus Animazione ----------
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-amuse-animation:AMUSE ANIMATION
 #DESCRIPTION AMUSE ANIMATION
@@ -213,7 +213,7 @@
 #DESCRIPTION SuperToons TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-yamato-animation:Yamato Animation
 #DESCRIPTION Yamato Animation
-#SERVICE 1:64:25:0:0:0:0:0:0:0:
+#SERVICE 1:64:24:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Samsung-TVplus Musica ----------
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-deluxe-lounge-hd:Deluxe Lounge HD
 #DESCRIPTION Deluxe Lounge HD

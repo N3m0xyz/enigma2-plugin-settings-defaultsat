@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<!-- file automatically generated on 25-06-2022 ( SAT.technology ManuTEKSettings by Nemoxyz release NEWscript 2022 Running ) -->
+<!-- file automatically generated on 18-07-2022 ( SAT.technology ManuTEKSettings by Nemoxyz release NEWscript 2022 Running ) -->
 <satellites>
 	<sat name="HotBird SATtek-01 (13.0E)" flags="1" position="130">
 		<transponder frequency="10719000" symbol_rate="27500000" polarization="1" fec_inner="3" inversion="2" modulation="2" system="1" pilot="2" rolloff="0"/>

@@ -1,227 +1,267 @@
 #NAME [SATtek - Rakuten-Pluto-Samsung+ TV]
-#SERVICE 1:64:14:0:0:0:0:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION - BEST Ch-IPTVfree Selection SATtechnology
-#SERVICE 1:64:15:0:0:0:0:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- RAKUTEN TV ----------
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-azione-rakuten-tv:Azione - Rakuten TV
+#SERVICE 4097:0:1:1:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-azione-rakuten-tv:Azione - Rakuten TV
 #DESCRIPTION Azione - Rakuten TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-classici-rakuten-tv:Classici - Rakuten TV
+#SERVICE 4097:0:1:2:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-classici-rakuten-tv:Classici - Rakuten TV
 #DESCRIPTION Classici - Rakuten TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-commedia-rakuten-tv:Commedia - Rakuten TV
+#SERVICE 4097:0:1:3:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-commedia-rakuten-tv:Commedia - Rakuten TV
 #DESCRIPTION Commedia - Rakuten TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-documentari-rakuten-tv:Documentari - Rakuten TV
+#SERVICE 4097:0:1:4:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-documentari-rakuten-tv:Documentari - Rakuten TV
 #DESCRIPTION Documentari - Rakuten TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-drammatici-rakuten-tv:Drammatici - Rakuten TV
+#SERVICE 4097:0:1:5:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-drammatici-rakuten-tv:Drammatici - Rakuten TV
 #DESCRIPTION Drammatici - Rakuten TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-family-rakuten-tv:Family - Rakuten TV
+#SERVICE 4097:0:1:6:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-family-rakuten-tv:Family - Rakuten TV
 #DESCRIPTION Family - Rakuten TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-romance-rakuten-tv:Romance - Rakuten TV
+#SERVICE 4097:0:1:7:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-romance-rakuten-tv:Romance - Rakuten TV
 #DESCRIPTION Romance - Rakuten TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-stories-rakuten-tv:Stories - Rakuten TV
+#SERVICE 4097:0:1:8:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-stories-rakuten-tv:Stories - Rakuten TV
 #DESCRIPTION Stories - Rakuten TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-thriller-rakuten-tv:Thriller - Rakuten TV
+#SERVICE 4097:0:1:9:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-thriller-rakuten-tv:Thriller - Rakuten TV
 #DESCRIPTION Thriller - Rakuten TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-topfilm-rakuten-tv:Top Film - Rakuten TV
+#SERVICE 4097:0:1:a:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-topfilm-rakuten-tv:Top Film - Rakuten TV
 #DESCRIPTION Top Film - Rakuten TV
-#SERVICE 1:64:16:0:0:0:0:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- PLUTO TV ----------
-#SERVICE 1:64:17:0:0:0:0:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Cinema ----------
-#SERVICE 4097:0:1:27b9:fa4b:4b16:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa17fb9f4490007e6419a:Pluto TV Film
+#SERVICE 4097:0:1:1e:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa17fb9f4490007e6419a:Pluto TV Film
 #DESCRIPTION Pluto TV Film
-#SERVICE 4097:0:1:8be2:7b5e:5ef0:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa20a2e7f270007c4878d:Pluto TV Film Azione
+#SERVICE 4097:0:1:40:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626182c72e4c720007432786/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Super! Film
+#DESCRIPTION Pluto TV Super! Film
+#SERVICE 4097:0:1:1a:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa20a2e7f270007c4878d:Pluto TV Film Azione
 #DESCRIPTION Pluto TV Film Azione
-#SERVICE 4097:0:1:2a73:6927:27e8:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa4a4cc92820007b663af:Pluto TV Film Romantici
-#DESCRIPTION Pluto TV Film Romantici
-#SERVICE 4097:0:1:9254:f57d:7d77:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa5e995132a00075f7005:Pluto TV Film Thriller
+#SERVICE 4097:0:1:20:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa5e995132a00075f7005:Pluto TV Film Thriller
 #DESCRIPTION Pluto TV Film Thriller
-#SERVICE 4097:0:1:1dd4:8598:9829:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa512d67fd900072323db:Pluto TV Film Commedia
+#SERVICE 4097:0:1:56:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Horror
+#DESCRIPTION Pluto TV Horror
+#SERVICE 4097:0:1:1c:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa512d67fd900072323db:Pluto TV Film Commedia
 #DESCRIPTION Pluto TV Film Commedia
-#SERVICE 4097:0:1:9e9e:8ef3:f382:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa42b5c2b8f0007197529:Pluto TV Film Drama
+#SERVICE 4097:0:1:1f:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa4a4cc92820007b663af:Pluto TV Film Romantici
+#DESCRIPTION Pluto TV Film Romantici
+#SERVICE 4097:0:1:1d:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa42b5c2b8f0007197529:Pluto TV Film Drama
 #DESCRIPTION Pluto TV Film Drama
-#SERVICE 4097:0:1:385f:6eb3:b3cf:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa7d8359b270007861489:Pluto TV Cinema Italiano
+#SERVICE 4097:0:1:25:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa7d8359b270007861489:Pluto TV Cinema Italiano
 #DESCRIPTION Pluto TV Cinema Italiano
-#SERVICE 4097:0:1:b439:ce32:32dc:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa3c446d73500075f0e24:Pluto TV Film Classici
+#SERVICE 4097:0:1:1b:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa3c446d73500075f0e24:Pluto TV Film Classici
 #DESCRIPTION Pluto TV Film Classici
-#SERVICE 1:64:18:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:57:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c49ccfcc9cc600070eae5c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Shorts
+#DESCRIPTION Shorts
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Serie TV ----------
-#SERVICE 4097:0:1:77e3:7d40:40fa:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60b9ff2722bfa400072676ef:Pluto TV Serie
+#SERVICE 4097:0:1:37:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60b9ff2722bfa400072676ef:Pluto TV Serie
 #DESCRIPTION Pluto TV Serie
-#SERVICE 4097:0:1:437:5596:96f8:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa777b907770007e5d05d:Pluto TV Crime
+#SERVICE 4097:0:1:27:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa777b907770007e5d05d:Pluto TV Crime
 #DESCRIPTION Pluto TV Crime
-#SERVICE 4097:0:1:403c:c5ac:acd4:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=61728bb9ee3773000840c1fa:Pluto TV Sci-Fi
+#SERVICE 4097:0:1:41:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=61728bb9ee3773000840c1fa:Pluto TV Sci-Fi
 #DESCRIPTION Pluto TV Sci-Fi
-#SERVICE 4097:0:1:edb9:78f7:f7c1:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940639add5910008c0cdd1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60940639add5910008c0cdd1:Serie Teen
+#SERVICE 4097:0:1:58:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b87091a9c310008f733b5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Star Trek
+#DESCRIPTION Pluto TV Star Trek
+#SERVICE 4097:0:1:65:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Reality
+#DESCRIPTION Pluto TV Reality
+#SERVICE 4097:0:1:38:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940639add5910008c0cdd1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60940639add5910008c0cdd1:Serie Teen
 #DESCRIPTION Serie Teen
-#SERVICE 4097:0:1:6f04:f956:562f:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60b9dc99521a1400079bdfba:Consulenze Illegali
+#SERVICE 4097:0:1:28:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60b9dc99521a1400079bdfba:Consulenze Illegali
 #DESCRIPTION Consulenze Illegali
-#SERVICE 4097:0:1:b3fe:e9b7:b7f9:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60a2837f8154ab0007c4dcdf:Le sorelle McLeod
-#DESCRIPTION Le sorelle McLeod
-#SERVICE 4097:0:1:cc25:84bd:bd6e:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60802d37ee238e0007c94e64:Andromeda
+#SERVICE 4097:0:1:22:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60802d37ee238e0007c94e64:Andromeda
 #DESCRIPTION Andromeda
-#SERVICE 4097:0:1:4047:c49c:9cb4:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60802c209a26320007c92ad5:Mutant X
+#SERVICE 4097:0:1:30:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60a2837f8154ab0007c4dcdf:Le sorelle McLeod
+#DESCRIPTION Le sorelle McLeod
+#SERVICE 4097:0:1:59:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62442f28afe626000747f195/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:I Jefferson
+#DESCRIPTION I Jefferson
+#SERVICE 4097:0:1:60:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62443055c9735d00076feff7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Sposati...con figli
+#DESCRIPTION Sposati...con figli
+#SERVICE 4097:0:1:61:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Ridiculousness
+#DESCRIPTION Ridiculousness
+#SERVICE 4097:0:1:62:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Geordie Shore
+#DESCRIPTION Geordie Shore
+#SERVICE 4097:0:1:63:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Il Testimone
+#DESCRIPTION Il Testimone
+#SERVICE 4097:0:1:64:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6094071be159e00007e860fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Are You The One?
+#DESCRIPTION Are You The One?
+#SERVICE 4097:0:1:31:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60802c209a26320007c92ad5:Mutant X
 #DESCRIPTION Mutant X
-#SERVICE 1:64:19:0:0:0:0:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Intrattenimento ----------
-#SERVICE 4097:0:1:5d99:b26a:6a05:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60801976f92a750007a0699c:Pluto TV Real Life
+#SERVICE 4097:0:1:35:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60801976f92a750007a0699c:Pluto TV Real Life
 #DESCRIPTION Pluto TV Real Life
-#SERVICE 4097:0:1:1ec4:eb65:657a:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa718a8ec810007d87fee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa718a8ec810007d87fee:Pluto TV Cucina
+#SERVICE 4097:0:1:42:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa718a8ec810007d87fee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa718a8ec810007d87fee:Pluto TV Cucina
 #DESCRIPTION Pluto TV Cucina
-#SERVICE 4097:0:1:7bfa:83d5:d55f:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612cde2edd516f0007e102ad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=612cde2edd516f0007e102ad:Pluto TV Celebration
-#DESCRIPTION Pluto TV Celebration
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6192605c9541940007d208f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV In Love
-#DESCRIPTION Pluto TV In Love
-#SERVICE 4097:0:1:ce6a:9cdb:db1f:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612ce23f51cce000078eeed5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=612ce23f51cce000078eeed5:Pluto TV Fireplace
-#DESCRIPTION Pluto TV Fireplace
-#SERVICE 4097:0:1:b9aa:4a81:81ad:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/618b98b04b1ec000075af6da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=618b98b04b1ec000075af6da:sin cortes
-#DESCRIPTION sin cortes
-#SERVICE 4097:0:1:71b9:2259:59a5:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60940a07d88ba90007b9cb71:16 Anni e Incinta
+#SERVICE 4097:0:1:21:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60940a07d88ba90007b9cb71:16 Anni e Incinta
 #DESCRIPTION 16 Anni e Incinta
-#SERVICE 4097:0:1:9042:bf3e:3e66:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60940ebad67fd900072382db:Ex On The Beach
+#SERVICE 4097:0:1:2b:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60940ebad67fd900072382db:Ex On The Beach
 #DESCRIPTION Ex On The Beach
-#SERVICE 4097:0:1:4615:fc5a:5a77:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=609404b0a8ec810007d8de9d:Scherzi e risate
+#SERVICE 4097:0:1:36:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=609404b0a8ec810007d8de9d:Scherzi e risate
 #DESCRIPTION Scherzi e risate
-#SERVICE 4097:0:1:27ad:6813:130a:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60e4507a06171800072339a3:Il Banco dei Pugni
+#SERVICE 4097:0:1:2d:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60e4507a06171800072339a3:Il Banco dei Pugni
 #DESCRIPTION Il Banco dei Pugni
-#SERVICE 4097:0:1:4ade:83e1:e197:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a7c62ee90dd20007637411/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60a7c62ee90dd20007637411:Young & Fabulous
-#DESCRIPTION Young & Fabulous
-#SERVICE 4097:0:1:f243:fd0d:d8f:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608017cbe375e400070cc981/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608017cbe375e400070cc981:People are Awesome
+#SERVICE 4097:0:1:34:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608017cbe375e400070cc981/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608017cbe375e400070cc981:People are Awesome
 #DESCRIPTION People are Awesome
-#SERVICE 4097:0:1:777e:9416:1666:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608014d19a26320007c92ab6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608014d19a26320007c92ab6:FailArmy
+#SERVICE 4097:0:1:2c:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608014d19a26320007c92ab6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608014d19a26320007c92ab6:FailArmy
 #DESCRIPTION FailArmy
-#SERVICE 4097:0:1:4ea5:ac27:271d:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f48c95132a00075fd859:Just for Laughs
+#SERVICE 4097:0:1:2f:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f48c95132a00075fd859:Just for Laughs
 #DESCRIPTION Just for Laughs
-#SERVICE 4097:0:1:f07c:620e:ecd:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60801317a0ccef00072aaf75:The Pet Collective
+#SERVICE 4097:0:1:3f:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60801317a0ccef00072aaf75:The Pet Collective
 #DESCRIPTION The Pet Collective
-#SERVICE 4097:0:1:7e7f:417f:7fd3:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6094071be159e00007e860fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6094071be159e00007e860fa:Dating
+#SERVICE 4097:0:1:29:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6094071be159e00007e860fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6094071be159e00007e860fa:Dating
 #DESCRIPTION Dating
-#SERVICE 4097:0:1:c55e:359b:9b2b:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c88130ab4a9800074e5f87/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60c88130ab4a9800074e5f87:Fashion TV
+#SERVICE 4097:0:1:44D:238C:13E:820000:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c88130ab4a9800074e5f87/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60c88130ab4a9800074e5f87:Fashion TV
 #DESCRIPTION Fashion TV
-#SERVICE 4097:0:1:fe96:5250:5024:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802e86a6997500072cfe90/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60802e86a6997500072cfe90:Loupe
-#DESCRIPTION Loupe
-#SERVICE 1:64:1a:0:0:0:0:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Sport ----------
-#SERVICE 4097:0:1:cb80:d043:4391:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608030eff4b6f70007e1684c:Pluto TV Sport
+#SERVICE 4097:0:1:39:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608030eff4b6f70007e1684c:Pluto TV Sport
 #DESCRIPTION Pluto TV Sport
-#SERVICE 4097:0:1:5949:b1ac:acbe:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608016e446d73500075ea7e0:World Poker Tour
+#SERVICE 4097:0:1:a:5195:3a4b:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608016e446d73500075ea7e0:World Poker Tour
 #DESCRIPTION World Poker Tour
-#SERVICE 1:64:1b:0:0:0:0:0:0:0:
-#DESCRIPTION ---------- Pluto Cultura ----------
-#SERVICE 4097:0:1:ff8b:90cf:cf0f:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa8a5709d6b0007b132fe:Pluto TV Documentari
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Pluto Notizie e Cultura ----------
+#SERVICE 4097:0:1:76:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Euronews
+#DESCRIPTION Euronews
+#SERVICE 4097:0:1:77:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CBS News
+#DESCRIPTION CBS News
+#SERVICE 4097:0:1:78:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/627d15744208ae000727c67c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Telefe Noticias
+#DESCRIPTION Telefe Noticias
+#SERVICE 4097:0:1:79:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/627d16b55b43690007badae0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chilevision Noticias
+#DESCRIPTION Chilevision Noticias
+#SERVICE 4097:0:1:2a:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608aa8a5709d6b0007b132fe:Pluto TV Documentari
 #DESCRIPTION Pluto TV Documentari
-#SERVICE 4097:0:1:691b:345:457b:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60802b37709d6b0007b0c549:Pluto TV Natura
+#SERVICE 4097:0:1:33:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60802b37709d6b0007b0c549:Pluto TV Natura
 #DESCRIPTION Pluto TV Natura
-#SERVICE 4097:0:1:557a:490d:dad:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=610a9ebe8c2ac2000734776e:Naturescap
-#DESCRIPTION Naturescap
-#SERVICE 4097:0:1:ceff:6921:21c4:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f9ed2c75660007322bb7:Catfish
+#SERVICE 4097:0:1:32:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=610a9ebe8c2ac2000734776e:Naturescape
+#DESCRIPTION Naturescape
+#SERVICE 4097:0:1:24:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f9ed2c75660007322bb7:Catfish
 #DESCRIPTION Catfish
-#SERVICE 1:64:1c:0:0:0:0:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Musica ----------
-#SERVICE 4097:0:1:b218:5831:3159:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60802de3fd2d70000763bb83:Clubbing TV
+#SERVICE 4097:0:1:80:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626180ec537f210007e94b52/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:VH1+ Summer Vibes
+#DESCRIPTION VH1+ Summer Vibes
+#SERVICE 4097:0:1:81:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0aeb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:VH1+
+#DESCRIPTION VH1+
+#SERVICE 4097:0:1:26:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60802de3fd2d70000763bb83:Clubbing TV
 #DESCRIPTION Clubbing TV
-#SERVICE 4097:0:1:4793:674e:4e90:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60db3bbd9397a00007ab029a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60db3bbd9397a00007ab029a:Qwest Jazz&Beyond
-#DESCRIPTION Qwest Jazz&Beyond
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-qwest-tv-mix:Qwest TV Mix
+#SERVICE 4097:0:1:4793:674e:4e90:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60db3bbd9397a00007ab029a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=60db3bbd9397a00007ab029a:Qwest Jazz and Beyond
+#DESCRIPTION Qwest Jazz and Beyond
+#SERVICE 4097:0:1:12:06dc:445b:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-qwest-tv-mix:Qwest TV Mix
 #DESCRIPTION Qwest TV Mix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-qwest-tv-classical:Qwest TV Classical
+#SERVICE 4097:0:1:11:06dc:445b:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-qwest-tv-classical:Qwest TV Classical
 #DESCRIPTION Qwest TV Classical
-#SERVICE 1:64:1d:0:0:0:0:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Pluto Bambini ----------
-#SERVICE 4097:0:1:7dc:32f4:f4bf:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=612375086abc84000738fc03:Pluto TV Anime
+#SERVICE 4097:0:1:66:e2b6:e4b2:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62444e195d2ab7000861694b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Kids
+#DESCRIPTION Pluto TV Kids
+#SERVICE 4097:0:1:23:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=612375086abc84000738fc03:Pluto TV Anime
 #DESCRIPTION Pluto TV Anime
-#SERVICE 4097:0:1:826c:7daa:aa9e:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6123742451cce0000789fc7a:Pluto TV Family
+#SERVICE 4097:0:1:43:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6123742451cce0000789fc7a:Pluto TV Family
 #DESCRIPTION Pluto TV Family
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6192612b6d03190008139f32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Super! Cupido
-#DESCRIPTION Super! Cupido
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Super! Brothers and Sisters
+#SERVICE 4097:0:1:44:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Super! Brothers and Sisters
 #DESCRIPTION Super! Brothers and Sisters
-#SERVICE 4097:0:1:ed20:171c:1c77:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f9281db477000759fce0:Super! SpongeBob
+#SERVICE 4097:0:1:3a:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f9281db477000759fce0:Super! SpongeBob
 #DESCRIPTION Super! SpongeBob
-#SERVICE 4097:0:1:9d4b:14bd:bdca:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070ebd51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f5ab128c2b00070ebd51:Super! Eroi
+#SERVICE 4097:0:1:3b:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070ebd51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f5ab128c2b00070ebd51:Super! Eroi
 #DESCRIPTION Super! Eroi
-#SERVICE 4097:0:1:1e2a:ea7a:7a8f:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=609401db8cf51c00084b592e:Super! iCarly
+#SERVICE 4097:0:1:3c:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=609401db8cf51c00084b592e:Super! iCarly
 #DESCRIPTION Super! iCarly
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6192624035f3910007fc7305/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Super! Mystery
+#SERVICE 4097:0:1:45:e2b6:e4b2:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6192624035f3910007fc7305/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Super! Mystery
 #DESCRIPTION Super! Mystery
-#SERVICE 4097:0:1:5532:1bb:bb1d:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f7b5bb49b90007cecaad:Super! Pop
+#SERVICE 4097:0:1:3d:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f7b5bb49b90007cecaad:Super! Pop
 #DESCRIPTION Super! Pop
-#SERVICE 4097:0:1:34b6:1799:9954:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f6f8351eb0000754afb8:Super! Star
+#SERVICE 4097:0:1:3e:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=6093f6f8351eb0000754afb8:Super! Star
 #DESCRIPTION Super! Star
-#SERVICE 4097:0:1:83db:5113:1377:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608015ea48a6e800076f0f2f:IGN
+#SERVICE 4097:0:1:2e:e2b6:e4b2:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#sapp_tvgid=608015ea48a6e800076f0f2f:IGN
 #DESCRIPTION IGN
-#SERVICE 1:64:1e:0:0:0:0:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- SAMSUNG-TVplus ----------
-#SERVICE 1:64:1f:0:0:0:0:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Samsung-TVplus Cinema ----------
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-bizzarro-movies:Bizzarro Movies
+#SERVICE 4097:0:1:46:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-bizzarro-movies:Bizzarro Movies
 #DESCRIPTION Bizzarro Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-cinema-segreto:Cinema Segreto
+#SERVICE 4097:0:1:47:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-cinema-segreto:Cinema Segreto
 #DESCRIPTION Cinema Segreto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-cgtv:CGtv
+#SERVICE 4097:0:1:68:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-italian-sofytv:Sofy TV
+#DESCRIPTION Sofy TV
+#SERVICE 4097:0:1:f:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-cgtv:CGtv
 #DESCRIPTION CGtv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-darkmatter-filmtv:Dark Matter Film TV
-#DESCRIPTION Dark Matter Film TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-western-peplum:Western Peplum
+#SERVICE 4097:0:1:48:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-darkmatter-filmtv:Dark Matter Film TV
+#DESCRIPTION Dark Matter TV
+#SERVICE 4097:0:1:12:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-western-peplum:Western Peplum
 #DESCRIPTION Western Peplum
-#SERVICE 1:64:20:0:0:0:0:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Samsung-TVplus Intrattenimento ----------
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-bbc-drama:BBC Drama
+#SERVICE 4097:0:1:b:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-bbc-drama:BBC Drama
 #DESCRIPTION BBC Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-brindiamo:Brindiamo!
+#SERVICE 4097:0:1:51:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-brindiamo:Brindiamo!
 #DESCRIPTION Brindiamo!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-cuore-ribelle:Cuore Ribelle
-#DESCRIPTION Cuore Ribelle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-doctor-who:Doctor Who
+#SERVICE 4097:0:1:e:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-doctor-who:Doctor Who
 #DESCRIPTION Doctor Who
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-televisa-telenovelas:Televisa Telenovelas
+#SERVICE 4097:0:1:11:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-televisa-telenovelas:Televisa Telenovelas
 #DESCRIPTION Televisa Telenovelas
-#SERVICE 1:64:21:0:0:0:0:0:0:0:
-#DESCRIPTION ---------- Samsung-TVplus Cultura ----------
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-bloomberg-tvplus:Bloomberg TV+
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Samsung-TVplus Notizie e Cultura ----------
+#SERVICE 4097:0:1:69:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-giornaleradiotv:Giornale Radio TV
+#DESCRIPTION Giornale Radio TV
+#SERVICE 4097:0:1:4:8417:21e2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-bloomberg-tvplus:Bloomberg TV+
 #DESCRIPTION Bloomberg TV+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-bbc-forbes:BFC Forbes
+#SERVICE 4097:0:1:c:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-bbc-forbes:BFC Forbes
 #DESCRIPTION BFC Forbes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-canale-europa:Canale Europa
+#SERVICE 4097:0:1:13:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-canale-europa:Canale Europa
 #DESCRIPTION Canale Europa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-donnatv:Donna TV
+#SERVICE 4097:0:1:9:0b86:9024:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-donnatv:Donna TV
 #DESCRIPTION Donna TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-theboatshow:The Boat Show
+#SERVICE 4097:0:1:14:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-theboatshow:The Boat Show
 #DESCRIPTION The Boat Show
-#SERVICE 1:64:22:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:70:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-italian-almatv-food:Alma TV Food
+#DESCRIPTION Alma TV Food
+#SERVICE 4097:0:1:71:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-italian-almatv-travel:Alma TV Travel
+#DESCRIPTION Alma TV Travel
+#SERVICE 4097:0:1:67:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-museumtvfast:Museum TV FAST
+#DESCRIPTION Museum TV FAST
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Samsung-TVplus Sport ----------
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-motor1tv:Motor1TV
+#SERVICE 4097:0:1:72:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-sportitalia:Sportitalia
+#DESCRIPTION Sportitalia
+#SERVICE 4097:0:1:16:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-motor1tv:Motor1TV
 #DESCRIPTION Motor1TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-fueltv:FUEL TV
+#SERVICE 4097:0:1:15:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-fueltv:FUEL TV
 #DESCRIPTION FUEL TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-horizonsports:HorizonSports
+#SERVICE 4097:0:1:17:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-horizonsports:HorizonSports
 #DESCRIPTION HorizonSports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-sportoutdoortv:SportOutdoor TV
+#SERVICE 4097:0:1:18:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-sportoutdoortv:SportOutdoor TV
 #DESCRIPTION SportOutdoor TV
-#SERVICE 1:64:23:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:73:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-surfworldtv:Surf World TV
+#DESCRIPTION Surf World TV
+#SERVICE 4097:0:1:74:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-italian-fishingtv:Italian Fishing TV
+#DESCRIPTION Italian Fishing TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Samsung-TVplus Animazione ----------
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-amuse-animation:AMUSE ANIMATION
+#SERVICE 4097:0:1:5:5567:a598:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-amuse-animation:AMUSE ANIMATION
 #DESCRIPTION AMUSE ANIMATION
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-gotgame:Got Game
+#SERVICE 4097:0:1:19:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-gotgame:Got Game
 #DESCRIPTION Got Game
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-ducktv:duckTV
+#SERVICE 4097:0:1:2:5567:a598:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-ducktv:duckTV
 #DESCRIPTION duckTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-mondo-tv-kids:MONDO TV KIDS
+#SERVICE 4097:0:1:6:5567:a598:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-mondo-tv-kids:MONDO TV KIDS
 #DESCRIPTION MONDO TV KIDS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-planeta-junior:Planeta Junior
+#SERVICE 4097:0:1:4:5567:a598:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-planeta-junior:Planeta Junior
 #DESCRIPTION Planeta Junior
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-supertoonstv:SuperToons TV
+#SERVICE 4097:0:1:3:5567:a598:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-supertoonstv:SuperToons TV
 #DESCRIPTION SuperToons TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-yamato-animation:Yamato Animation
+#SERVICE 4097:0:1:75:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-teletubbies:Teletubbies
+#DESCRIPTION Teletubbies
+#SERVICE 4097:0:1:10:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-yamato-animation:Yamato Animation
 #DESCRIPTION Yamato Animation
-#SERVICE 1:64:24:0:0:0:0:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Samsung-TVplus Musica ----------
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-deluxe-lounge-hd:Deluxe Lounge HD
+#SERVICE 4097:0:1:7:06dc:445b:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-deluxe-lounge-hd:Deluxe Lounge HD
 #DESCRIPTION Deluxe Lounge HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-radio-italia-trend:RADIO ITALIA TREND
+#SERVICE 4097:0:1:17:06dc:445b:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-radio-italia-trend:RADIO ITALIA TREND
 #DESCRIPTION RADIO ITALIA TREND
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-trace-latina:Trace Latina
+#SERVICE 4097:0:1:54:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-trace-latina:Trace Latina
 #DESCRIPTION Trace Latina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-trace-urban:Trace Urban
+#SERVICE 4097:0:1:55:e2b6:e4b2:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-trace-urban:Trace Urban
 #DESCRIPTION Trace Urban
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-vevo90s:Vevo 90s
-#DESCRIPTION Vevo 90s
+#SERVICE 4097:0:1:24:06dc:445b:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-vevo90sand00s:Vevo 90s and 00s
+#DESCRIPTION Vevo 90s and 00s
+#SERVICE 4097:0:1:25:06dc:445b:0:0:0:0:https%3a//bit.ly/sattek-samsungtvplus-vevopop:Vevo Pop
+#DESCRIPTION Vevo Pop

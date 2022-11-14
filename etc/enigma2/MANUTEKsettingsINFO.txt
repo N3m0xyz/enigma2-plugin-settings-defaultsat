@@ -1,0 +1,29 @@
+
+-----------------------------------------------------------------------
+
+                MANUTEKsettings SAT & DTT channel list TV ©
+
+LA LISTA CANALI E' E RIMANE UNA LISTA CANALI
+INSIEME ORDINATO DI PARAMETRI - FREQ - TRASPONDERS
+PER LA CORRETTA SINTONIZZAZIONE
+E’ VIETATO L'USO NON REGOLAMENTARE DEI FILE PRODOTTI
+CI ASTENIAMO DA OGNI RESPONSABILITA DERIVANTE DA UN USO SMODATO
+
+   Support on SAT.technology / www.manutek.it ( official homepage )
+
+-----------------------------------------------------------------------
+
+Il team Manutek settings nasce all'indomani dell'esigenza di avere
+un lista canali organizzata in modo tale da essere fruibile e dare
+accesso veloce ai migliori canali che l'utente enigma2 possa
+desiderare.
+L'idea innovativa di effettuare una copertura totale o quasi del 
+territorio nazionale dal punto di vista delle scansioni DTT del
+digitale terrestre corona il senso e la mission prefissa.
+Il tutto incorniciato e coadiuvato da un sito/blog/forum di appoggio
+Sat.technology di ampio respiro ed in continua evoluzione.
+
+-----------------------------------------------------------------------
+
+
+

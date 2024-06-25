@@ -1,3 +1,5 @@
 #NAME User - Bouquets (Radio)
 #SERVICE 1:7:2:0:0:0:0:0:0:0:userbouquet.SATtekdbe00DTT.radio
-#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtekdbe01mono-TIVUSAT.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtekdbe02mono-SUISSE-RADIO.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtekdbe03mono-HB13-RADIO.radio" ORDER BY bouquet

@@ -1,5 +1,13 @@
-#NAME                                 [ SAT.technology - Settings ]
-#SERVICE 1:64:74:0:0:0:0:0:0:0:
+#NAME                                  [ SAT.technology - Settings ]
+#SERVICE 1:64:90:0:0:0:0:0:0:0:
 #DESCRIPTION OFFICIAL RELEASER - Nemoxyz - SAT.technology
-#SERVICE 1:64:75:0:0:0:0:0:0:0:
+#SERVICE 1:64:91:0:0:0:0:0:0:0:
 #DESCRIPTION nemoxyz.cloud/nemoxyz-release-setting-e2-manutek/
+#SERVICE 1:64:92:0:0:0:0:0:0:0:
+#DESCRIPTION --------------------------
+#SERVICE 1:64:93:0:0:0:0:0:0:0:
+#DESCRIPTION # Th3chn0l0gyCLOUD - https://nemoxyz.cloud
+#SERVICE 1:64:94:0:0:0:0:0:0:0:
+#DESCRIPTION # SAT.technology - WEBforum
+#SERVICE 1:64:95:0:0:0:0:0:0:0:
+#DESCRIPTION # Seguici su TELEGRAM: https://t.me/offertetechnology

@@ -1,5 +1,6 @@
 #NAME User - Bouquets (TV)
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek000mono-NemoxyzBEST.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:userbouquet.DTTtek00.tv
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek00Streaming-SATtek-Rakuten-Pluto-SamsungTV.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek001mono-Cinema.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek002mono-Sport.tv" ORDER BY bouquet

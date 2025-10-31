@@ -1,15 +1,29 @@
 #NAME Radio Swiss Selection
-#SERVICE 1:64:168:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f5:0:0:0:0:0:0:0:
 #DESCRIPTION --------------------------
-#SERVICE 1:64:169:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f6:0:0:0:0:0:0:0:
 #DESCRIPTION # Th3chn0l0gyCLOUD - https://nemoxyz.cloud
-#SERVICE 1:64:16a:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f7:0:0:0:0:0:0:0:
 #DESCRIPTION # SAT.technology - WEBforum
-#SERVICE 1:64:16b:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f8:0:0:0:0:0:0:0:
 #DESCRIPTION # Seguici su TELEGRAM: https://t.me/offertetechnology
-#SERVICE 1:64:16c:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f9:0:0:0:0:0:0:0:
 #DESCRIPTION --------------------------
-#SERVICE 1:64:16d:0:0:0:0:0:0:0:
+#SERVICE 1:64:1fa:0:0:0:0:0:0:0:
+#DESCRIPTION SPORTsEvents EPGTracker
+#SERVICE 1:64:1fb:0:0:0:0:0:0:0:
+#DESCRIPTION https://dub.sh/sports-eventstracker-epglink
+#SERVICE 1:64:1fc:0:0:0:0:0:0:0:
+#DESCRIPTION LO SPORT MINUTO PER MINUTO!
+#SERVICE 1:64:1fd:0:0:0:0:0:0:0:
+#DESCRIPTION --------------------------
+#SERVICE 1:64:1fe:0:0:0:0:0:0:0:
+#DESCRIPTION Supporta il progetto qui:
+#SERVICE 1:64:1ff:0:0:0:0:0:0:0:
+#DESCRIPTION https://dub.sh/support-sattechnology
+#SERVICE 1:64:200:0:0:0:0:0:0:0:
+#DESCRIPTION --------------------------
+#SERVICE 1:64:201:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Radio Srg Ssr ----------
 #SERVICE 1:0:2:434f:300c:13e:820000:0:0:0:
 #SERVICE 1:0:2:4350:300c:13e:820000:0:0:0:
